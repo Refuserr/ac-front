@@ -1,0 +1,8 @@
+ plugins {
+        id 'java'
+    }
+
+    group 'pers.ls.exchange.ac.front'
+    version '1.0-SNAPSHOT'
+
+    sourceCompatibility = 1.8

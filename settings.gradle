@@ -1,0 +1,5 @@
+rootProject.name = 'ac-front'
+include 'front-service'
+include 'ac-rest'
+include 'front-jdbc'
+
